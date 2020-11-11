@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# **Li-Fi**
+## Apa itu LiFI ?
+Li-Fi adalah teknologi yang mampu mengantar sinyal internet melalu perantaraan cahaya. 
+Berbeda dengan WiFi yang menggunakan meidum berupa gelombang radio dengan rentang frekuensi 2.4 GHz atau 5 GHZ.
+Selain itu, bandwith cahaya dinilai lebih besar dan sesuai untuk koneksi yang stabil dan simultan dari berbagai perangkat Internet of Things (IoT). Teknologi yang diadopsi oleh LiFi sendiri hampir sama dengan yang diadopsi di WiFi. Keduanya adalah teknologi nirkabel dua arah dengan yang kecepatan transfer data yang tinggi.
+Istilah **LiFi** sendri dikemukakan oleh profesor Harald Haas, yang tak lain merupakan seorang akademisi dari University of Edinburgh. Haas sendiri sudah mendemonstrasikan LiFi sejak tahun 2011 dalam forum TEDGlobal di Edinburgh, Jerman.
 
-You can use the [editor on GitHub](https://github.com/VincentiusMiduk/LiFi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VincentiusMiduk/LiFi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Bagaimana cara kerja Li-Fi ? 
