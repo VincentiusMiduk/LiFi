@@ -29,4 +29,3 @@ Selain itu, perangkat tujuan ini harus tidak boleh dipindah-pindahkan. Dari perk
 LiFi yang memiliki kecepatan berkali kali lipat dibandingkan wifi karena disebabkan oleh jenis LED yang merupakan semikonduktor punya sifat berbeda dari jenis lampu lain. Dengan sifat dan ciri-ciri seperti ini membuat LED mampu untuk beralih on dan off dalam beberapa nanodetik atau miliar detik.
 **Nanodetik** Jika di konversikan dalam kecepatan data setara dengan 1 Gbits/s. Maka dari itu saat Wi-Fi hanya bisa mencapai 100 Mbits/s kecepatan data .
 Itulah kenapa LiFi memiliki kecepatan 10x lipat dari WiFi.
-
